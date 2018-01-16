@@ -9,7 +9,9 @@ def fourth_challenge
           age: "17",
           attitude: "worried"
         },
-        
+        {name: "Mercutio"
+
+        }
       ]
    },
    :capulet => {
