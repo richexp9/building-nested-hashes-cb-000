@@ -26,7 +26,7 @@ def fourth_challenge
         attitude: "confused"
       },
       {
-        
+        name: "Nurse"
       }
       ]
    }
